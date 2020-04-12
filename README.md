@@ -1,2 +1,2 @@
-
-Calculate_Pixel
+像素計算
+變數 add  填入圖片位置
